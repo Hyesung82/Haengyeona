@@ -7,6 +7,7 @@ import com.facebook.react.PackageList;
 import com.facebook.hermes.reactexecutor.HermesExecutorFactory;
 import com.facebook.react.bridge.JavaScriptExecutorFactory;
 import com.facebook.react.ReactApplication;
+import com.reactnativecommunity.geolocation.GeolocationPackage;
 import com.github.quadflask.react.navermap.RNNaverMapPackage;
 import com.teamsf.daummap.DaumMapPackage;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;

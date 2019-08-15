@@ -32,6 +32,8 @@ target 'HaengyeonaApp3' do
 
   pod 'react-native-naver-map', :path => '../node_modules/react-native-nmap'
 
+  pod 'react-native-geolocation', :path => '../node_modules/@react-native-community/geolocation'
+
   target 'HaengyeonaApp3Tests' do
     inherit! :search_paths
     # Pods for testing

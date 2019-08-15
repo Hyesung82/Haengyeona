@@ -188,6 +188,7 @@ android {
 }
 
 dependencies {
+    implementation project(':@react-native-community_geolocation')
 
     implementation 'com.naver.maps:map-sdk:3.4.0'
   
